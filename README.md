@@ -37,3 +37,50 @@ This project uses a multi-agent simulation:
 
 ## 📁 Folder Structure
 
+ai-youtube-translator/
+├── app.py # Main Gradio app
+├── requirements.txt # Dependencies
+└── README.md # You're reading this
+
+yaml
+Copy
+Edit
+
+---
+
+## 📋 Example Video IDs
+
+You can test the app using:
+
+- `https://youtu.be/dQw4w9WgXcQ`
+- `https://www.youtube.com/watch?v=F9cTlfD7ZGM`
+- `https://www.youtube.com/shorts/L7rnto5Oe0s`
+
+The app embeds the video and shows the summary + Spanish translation.
+
+---
+
+## 🌐 Future Scope
+
+- 🧠 Real YouTube Transcript + Whisper support
+- 🌍 Add support for more languages (Urdu, French, etc.)
+- 📥 Downloadable summaries
+- 🧾 Summarization for long-form YouTube videos
+- 🧩 Chrome Extension for live translation
+
+---
+
+## 💡 Bonus Features
+
+✅ Built with GenAI Hackathon Challenge in mind  
+✅ Hugging Face deployment ready  
+✅ No YouTube API key needed  
+✅ Fully open-source
+
+---
+
+## 🛠️ Installation (Optional for Local)
+
+```bash
+pip install -r requirements.txt
+python app.py
