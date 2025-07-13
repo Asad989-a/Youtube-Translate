@@ -52,9 +52,9 @@ Edit
 
 You can test the app using:
 
-- `https://youtu.be/dQw4w9WgXcQ`
-- `https://www.youtube.com/watch?v=F9cTlfD7ZGM`
-- `https://www.youtube.com/shorts/L7rnto5Oe0s`
+- `https://www.youtube.com/shorts/L7rnto5Oe0s?feature=share`
+- `https://www.youtube.com/shorts/-mMbOxXNPhY?feature=share`
+- `https://www.youtube.com/shorts/bUbV2CIHHmU?feature=share`
 
 The app embeds the video and shows the summary + Spanish translation.
 
